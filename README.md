@@ -22,7 +22,7 @@ Ensure you have Python installed along with `tkinter` (pre-installed in standard
    ```
 2. Run the Python script:
    ```sh
-   python formatter.py
+   main.py
    ```
 3. Enter your mathematical text into the input box.
 4. Click **"Convert for Obsidian"** to transform the format.
